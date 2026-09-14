@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/5549adb7-3cdf-41a5-a92d-6c70d058b2d4" width="100%" alt="banner" style="display: block; margin-bottom: 20px;" />
+<img src="https://github.com/user-attachments/assets/3797b603-0dff-435b-9a28-0eedb36de36b" width="100%" alt="banner" style="display: block; margin-bottom: 20px;" />
 
 <p><code>AbdulArshath007@github ~ $ whoami</code></p>
 
