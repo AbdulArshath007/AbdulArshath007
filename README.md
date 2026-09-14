@@ -1,6 +1,12 @@
+
 <div align="center">
 
-<h1><code>ARSHAWWW</code></h1>
+<h1><p align="center">
+  <video src="
+https://github.com/user-attachments/assets/10ada374-d75a-47e5-a8f9-14b6c1b25c82
+" width="80%" controls autoplay loop muted></video>
+</p>
+</h1>
 <p><code>AbdulArshath007@github ~ $ whoami</code></p>
 
 <table>
