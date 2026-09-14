@@ -1,10 +1,19 @@
 <div align="center">
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/10ada374-d75a-47e5-a8f9-14b6c1b25c82" width="80%" controls autoplay loop muted></video>
+  <video 
+    src="https://github.com](https://github.com/user-attachments/assets/10ada374-d75a-47e5-a8f9-14b6c1b25c82" 
+    width="80%" 
+    autoplay 
+    loop 
+    muted 
+    playsinline
+    preload="auto">
+  </video>
 </p>
 
 <p><code>AbdulArshath007@github ~ $ whoami</code></p>
+
 
 
 <table>
