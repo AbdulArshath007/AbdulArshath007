@@ -19,9 +19,9 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulArshath007/AbdulArshath007/output/dist/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulArshath007/AbdulArshath007/output/dist/snake-light.svg" />
-  <img alt="AbdulArshath007's contribution snake" src="https://raw.githubusercontent.com/AbdulArshath007/AbdulArshath007/output/dist/snake-dark.svg" width="860" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulArshath007/AbdulArshath007/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulArshath007/AbdulArshath007/output/snake-light.svg" />
+  <img alt="AbdulArshath007's contribution snake" src="https://raw.githubusercontent.com/AbdulArshath007/AbdulArshath007/output/snake-dark.svg" width="860" />
 </picture>
 
 <br>
