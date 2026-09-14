@@ -1,15 +1,8 @@
 <div align="center">
 
 <p align="center">
-  <video 
-    src="https://github.com/user-attachments/assets/10ada374-d75a-47e5-a8f9-14b6c1b25c82" 
-    width="80%" 
-    autoplay 
-    loop 
-    muted 
-    playsinline
-    preload="auto">
-  </video>
+  <img src=" <img width="1920" height="1080" alt="Video Project" src="https://github.com/user-attachments/assets/8f68253c-1e10-45ea-97dd-b6db7d349231" />
+   width="80%" alt="ARSHAWWW Intro Animation">
 </p>
 
 <p><code>AbdulArshath007@github ~ $ whoami</code></p>
