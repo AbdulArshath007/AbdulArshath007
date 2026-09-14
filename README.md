@@ -1,13 +1,10 @@
 <div align="center">
 
 <p align="center">
-  <img src=" <img width="1920" height="1080" alt="Video Project" src="https://github.com/user-attachments/assets/8f68253c-1e10-45ea-97dd-b6db7d349231" />
-   width="80%" alt="ARSHAWWW Intro Animation">
+  <img src="https://github.com/user-attachments/assets/8f68253c-1e10-45ea-97dd-b6db7d349231" width="80%" alt="ARSHAWWW Intro Animation">
 </p>
 
 <p><code>AbdulArshath007@github ~ $ whoami</code></p>
-
-
 
 <table>
 <tr>
