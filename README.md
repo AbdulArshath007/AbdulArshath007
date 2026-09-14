@@ -1,8 +1,6 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8f68253c-1e10-45ea-97dd-b6db7d349231" width="80%" alt="ARSHAWWW Intro Animation">
-</p>
+<img src="https://github.com" width="100%" alt="ARSHAWWW Intro Animation" style="display: block; margin-bottom: 20px;" />
 
 <p><code>AbdulArshath007@github ~ $ whoami</code></p>
 
@@ -24,7 +22,7 @@
 <p><code>AbdulArshath007@github ~ $ ./links.sh</code></p>
 <p><b>Full-Stack Developer · TypeScript Builder · AI &amp; Web Experiences</b></p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-AbdulArshath007-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulArshath007)
+[![GitHub](https://shields.io)](https://github.com)
 
 <br>
 
