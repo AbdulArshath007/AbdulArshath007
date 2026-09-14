@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com" width="100%" alt="ARSHAWWW Intro Animation" style="display: block; margin-bottom: 20px;" />
+<img src="https://github.com/user-attachments/assets/8f68253c-1e10-45ea-97dd-b6db7d349231" width="100%" alt="banner" style="display: block; margin-bottom: 20px;" />
 
 <p><code>AbdulArshath007@github ~ $ whoami</code></p>
 
