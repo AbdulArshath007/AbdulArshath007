@@ -5,7 +5,7 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./profile-portrait.jpeg" width="370" alt="ARSHAWWW — profile portrait" /></td>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="ARSHAWWW — ASCII portrait" /></td>
 <td valign="top"><img src="./wordmark.svg" width="490" alt="ARSHAWWW — 3D ASCII wordmark" /></td>
 </tr>
 </table>

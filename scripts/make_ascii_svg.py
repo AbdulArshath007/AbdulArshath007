@@ -29,13 +29,13 @@ CELL_W = 8
 CELL_H = 15
 RAMP = " .`:-=+*cs#%@"  # bright(sparse) -> dark(dense); leading space clears bg
 
-# the prepped image already has bg removed + CLAHE local contrast, so only
-# light global tuning is needed here.
-CONTRAST = 0.92
+# The supplied image is already dark and high-contrast. Keep the dark background
+# sparse and map bright facial/hair detail to denser glyphs so the portrait reads.
+CONTRAST = 1.0
 BRIGHTNESS = 1.0
-GAMMA = 1.65          # >1 brightens mids -> face lands in sparser chars
-SHARPEN = False
-WHITE_FLOOR = 0.60    # luminance above this is forced to blank (space)
+GAMMA = 0.82
+SHARPEN = True
+BLACK_FLOOR = 0.08     # near-black background becomes blank
 
 PAD = 20
 TITLEBAR_H = 30
@@ -73,10 +73,10 @@ for y in range(ROWS):
     for x in range(COLS):
         lum = px[x, y] / 255.0
         lum = pow(lum, GAMMA)
-        if lum >= WHITE_FLOOR:
+        if lum <= BLACK_FLOOR:
             chars.append(" ")
             continue
-        idx = int((1.0 - lum) * (len(RAMP) - 1) + 0.5)
+        idx = int(lum * (len(RAMP) - 1) + 0.5)
         idx = max(0, min(len(RAMP) - 1, idx))
         chars.append(RAMP[idx])
     rows_txt.append("".join(chars))
