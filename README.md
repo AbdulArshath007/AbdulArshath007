@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Full-Width Banner -->
-<img src="https://github.com" width="100%" alt="ARSHAWWW Void Intro Banner" style="display: block; margin-bottom: 25px;" />
+<img src="https://github.com/user-attachments/assets/8f68253c-1e10-45ea-97dd-b6db7d349231" width="100%" alt="ARSHAWWW Void Intro Banner" style="display: block; margin-bottom: 25px;" />
 
 <p><code>AbdulArshath007@github ~ $ whoami</code></p>
 
