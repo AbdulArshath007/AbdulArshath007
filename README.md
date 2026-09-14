@@ -13,11 +13,6 @@
 
 <br>
 
-<p><code>AbdulArshath007@github ~ $ ./contributions.sh</code></p>
-<img src="./contrib-heatmap.svg" width="860" alt="Abdul Arshath's GitHub contribution graph — auto-refreshed daily" />
-
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulArshath007/AbdulArshath007/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulArshath007/AbdulArshath007/output/snake-light.svg" />
