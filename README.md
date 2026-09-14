@@ -1,6 +1,13 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/8f68253c-1e10-45ea-97dd-b6db7d349231" width="100%" alt="banner" style="display: block; margin-bottom: 20px;" />
+<img src="
+  
+
+
+https://github.com/user-attachments/assets/82b38304-1158-49ab-88cc-286b0a9e462f
+
+
+  " width="100%" alt="banner" style="display: block; margin-bottom: 20px;" />
 
 <p><code>AbdulArshath007@github ~ $ whoami</code></p>
 
