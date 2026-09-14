@@ -1,26 +1,24 @@
 <div align="center">
 
-<h3><code>AbdulArshath007@github ~ $ whoami</code></h3>
+<h1><code>ARSHAWWW</code></h1>
+<p><code>AbdulArshath007@github ~ $ whoami</code></p>
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Abdul Arshath — ASCII portrait" /></td>
+<td valign="top"><img src="./profile-portrait.jpeg" width="370" alt="ARSHAWWW — profile portrait" /></td>
 <td valign="top"><img src="./wordmark.svg" width="490" alt="ARSHAWWW — 3D ASCII wordmark" /></td>
 </tr>
 </table>
 
 <br>
-<br>
 
-<h3><code>AbdulArshath007@github ~ $ ./contributions.sh</code></h3>
-
+<p><code>AbdulArshath007@github ~ $ ./contributions.sh</code></p>
 <img src="./contrib-heatmap.svg" width="860" alt="Abdul Arshath's GitHub contribution graph — auto-refreshed daily" />
 
 <br>
 <br>
 
-<h3><code>AbdulArshath007@github ~ $ ./links.sh</code></h3>
-
+<p><code>AbdulArshath007@github ~ $ ./links.sh</code></p>
 <p><b>Full-Stack Developer · TypeScript Builder · AI &amp; Web Experiences</b></p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-AbdulArshath007-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulArshath007)
