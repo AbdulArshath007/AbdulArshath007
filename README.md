@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="
-  <img width="800" height="446" alt="ascii-magic-1-ezgif com-video-to-webp-converter" src="https://github.com/user-attachments/assets/5549adb7-3cdf-41a5-a92d-6c70d058b2d4" />
+<img src="https://github.com/user-attachments/assets/5549adb7-3cdf-41a5-a92d-6c70d058b2d4" />
 
 
 
