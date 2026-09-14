@@ -36,30 +36,58 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[ZAARS](https://github.com/AbdulArshath007/ZAARS-Zero-Error-AI-Agent-Reasoning-System-)**
-<sub>Zero-Error AI Agent Reasoning System</sub>
+<a href="https://github.com/AbdulArshath007/ZAARS-Zero-Error-AI-Agent-Reasoning-System-">
+  <img src="https://img.shields.io/badge/ZAARS-CF9FFF?style=for-the-badge&logoColor=1a1a1a" alt="ZAARS" />
+</a>
+<img src="https://img.shields.io/badge/AI%20Agent-1a1a2e?style=flat-square&color=3b1f5e" alt="AI Agent" />
+
+<p><font color="#CF9FFF">Zero-Error AI Agent Reasoning System</font><br/>
+<sub>Autonomous agent pipeline with structured reasoning and zero-hallucination guardrails.</sub></p>
+
+<a href="https://github.com/AbdulArshath007/ZAARS-Zero-Error-AI-Agent-Reasoning-System-"><img src="https://img.shields.io/badge/→%20view%20repo-CF9FFF?style=flat-square&logoColor=1a1a1a" /></a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[Ai-Moderator](https://github.com/AbdulArshath007/Ai-Moderator)**
-<sub>AI-powered moderation tool</sub>
+<a href="https://github.com/AbdulArshath007/Ai-Moderator">
+  <img src="https://img.shields.io/badge/Ai--Moderator-CF9FFF?style=for-the-badge&logoColor=1a1a1a" alt="Ai-Moderator" />
+</a>
+<img src="https://img.shields.io/badge/AI%20Tool-1a1a2e?style=flat-square&color=3b1f5e" alt="AI Tool" />
+
+<p><font color="#CF9FFF">AI-Powered Content Moderation</font><br/>
+<sub>Real-time moderation engine — detects toxicity, spam, and policy violations at scale.</sub></p>
+
+<a href="https://github.com/AbdulArshath007/Ai-Moderator"><img src="https://img.shields.io/badge/→%20view%20repo-CF9FFF?style=flat-square&logoColor=1a1a1a" /></a>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[Cryso — MemeCoin Radar](https://github.com/AbdulArshath007/Cryso-MemeCoinRadar)**
-<sub>Crypto meme-coin tracking tool</sub>
+<a href="https://github.com/AbdulArshath007/Cryso-MemeCoinRadar">
+  <img src="https://img.shields.io/badge/Cryso-CF9FFF?style=for-the-badge&logoColor=1a1a1a" alt="Cryso" />
+</a>
+<img src="https://img.shields.io/badge/Crypto-1a1a2e?style=flat-square&color=3b1f5e" alt="Crypto" />
+
+<p><font color="#CF9FFF">MemeCoin Radar</font><br/>
+<sub>Live tracker for emerging meme-coins — sentiment signals, volume spikes, and radar charts.</sub></p>
+
+<a href="https://github.com/AbdulArshath007/Cryso-MemeCoinRadar"><img src="https://img.shields.io/badge/→%20view%20repo-CF9FFF?style=flat-square&logoColor=1a1a1a" /></a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[letsfame](https://github.com/AbdulArshath007/letsfame)**
-<sub>Full-stack TypeScript build</sub>
+<a href="https://github.com/AbdulArshath007/letsfame">
+  <img src="https://img.shields.io/badge/letsfame-CF9FFF?style=for-the-badge&logoColor=1a1a1a" alt="letsfame" />
+</a>
+<img src="https://img.shields.io/badge/Full--Stack-1a1a2e?style=flat-square&color=3b1f5e" alt="Full-Stack" />
+
+<p><font color="#CF9FFF">Full-Stack TypeScript Build</font><br/>
+<sub>End-to-end TypeScript app — typed API, Prisma ORM, Next.js front-end, deployed on Vercel.</sub></p>
+
+<a href="https://github.com/AbdulArshath007/letsfame"><img src="https://img.shields.io/badge/→%20view%20repo-CF9FFF?style=flat-square&logoColor=1a1a1a" /></a>
 
 </td>
 </tr>
